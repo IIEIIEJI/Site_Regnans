@@ -1,0 +1,555 @@
+{
+ "name": "Информационная безопасность",
+ "children": [
+  {
+   "name": "DLP",
+   "children": [
+    {
+     "name": "РФ",
+     "children": [
+      {"name": "SearchInform"},
+      {"name": "SecureTower"},
+      {"name": "Solar Dozor"},
+      {"name": "StaffCop"},
+      {"name": "Гарда Предприятие"},
+      {"name": "DeviceLock"},
+      {"name": "Zecurion Zgate+Zecurion Zlock+Zecurion Zdiscovery"},
+      {"name": "InfoWatch Traffic Monitor+Endpoint Security"}
+     ]
+    },
+    {
+     "name": "Зарубежные",
+     "children": [
+      {"name": "RSA Data Loss Prevention"},
+      {"name": "Symantec Data Loss Prevention"},
+      {"name": "McAfee Data Loss Prevention (DLP) Monitor"},
+      {"name": "WebSense TRITON AP-DATA"},
+      {"name": "Blue Coat DLP"},
+      {"name":"GTB Technologies"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Управление доступом (IDM)",
+      "children": [
+    {
+     "name": "РФ",
+     "children": [
+      {"name": "1IDM"},
+      {"name": "Solar inRights"},
+      {"name": "Avanpost"}
+    ]},
+    {
+     "name": "Зарубежные",
+     "children": [
+      {"name": "Oracle IDM"},
+      {"name": "IBM IDM"},
+      {"name": "SailPoint"},
+      {"name": "RSA IDM"},
+      {"name": "Microsoft Forefront IDM"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Анти-ДДОС",
+   "children": [
+    {
+     "name": "РФ",
+     "children": [
+      {"name": "QRATOR LABS"},
+      {"name": "Касперский Анти-ДДОС"},
+      {"name": "Ddos-guard"},
+      {"name":"На уровне провайдеров:Cloud4Y "}
+    ]},
+    {
+     "name": "Зарубежные",
+     "children": [
+      {"name": "Arbor"},
+      {"name": "Cloudflare"},
+      {"name": "Akamai"},
+      {"name":"Radware DefensePro"}
+     ]
+    }
+ ]
+  },
+  {
+   "name": "Анализ уязвимостей",
+  "children": [
+    {
+     "name": "РФ",
+     "children": [
+      {"name": "Xspider"},
+      {"name": "MaxPatrol"},
+      {"name":"СКАНЕР-ВС"},
+      {"name":"ERPScan"}
+    ]},
+    {
+     "name": "Зарубежные",
+     "children": [
+      {"name": "Qualys"},
+      {"name": "Rapid7"},
+      {"name": "Nessus"}
+     ]
+    }
+ ]
+  },
+  {
+   "name": "Веб безопасность",
+   "children": [
+    {
+     "name": "WAF",
+     "children": [
+      {"name": "РФ", "children": [
+       {"name":"PT Application FW"},
+       {"name":"Wallarm"},
+       {"name":"NatSys Tempesta FW"}
+      ]},
+      {"name": "Зарубежные", "children":
+       [{"name":"Imperva WAF"},
+        {"name":"Radware AppWall"},
+        {"name":"Trustwave WAF"},
+        {"name":"F5 WAF"}
+      ]}
+    ]},
+    {
+     "name": "Проксирование",
+     "children": [
+      {"name": "РФ", "children": [
+       {"name":"IDECO СКИФ"}
+      ]},
+      {"name": "Зарубежные", "children":
+       [{"name":"Websense Content Gateway"},
+        {"name":"BlueCoat Secure Web Gateway"},
+        {"name":"Cisco Web Security Appliance"},
+        {"name":"Fortinet FortiGate"},
+        {"name":"TrendMicro InterScan™ Web Security"}
+      ]}
+     ]
+    }
+ ]
+  },
+  {
+   "name": "Endpoint Protection",
+   "children": [
+    {
+     "name": "РФ",
+     "children": [
+      {"name":"Kaspersky Endpoint Security"},
+      {"name": "Infowatch Endpoint Security"},
+      {"name": "Zecurion Zlock"},
+      {"name": "Secret Net"},
+      {"name":"Security Studio Endpoint Protection"},
+      {"name": "DallasLock"},
+      {"name": "DeviceLock"}
+     ]},
+    {
+     "name": "Зарубежные", "children":
+       [{"name":"McAfee Complete Endpoint Protection"},
+        {"name":"Lumension Device Control"},
+        {"name":"Symantec Endpoint Protection"},
+        {"name":"Trend Micro Complete User Protection"}
+       ]
+    },
+    {
+   "name": "Endpoint Protection Application Control",
+   "children": [
+    {
+     "name": "РФ",
+     "children": [
+    ]},
+    {
+     "name": "Зарубежные",
+     "children": [
+      {"name": "Bit9"},
+      {"name":"Lumension Application Control"},
+      {"name": "Trend Micro Endpoint Application Control"}
+     ]
+    }
+ ]
+  },
+    {"name": "Endpoint Protection Фиолетовое",
+      "children": [
+       {"name":"Tanium"}
+      ]}
+    ]},
+  {
+   "name": "Антивирусная защита",
+   "children": [
+    {
+     "name": "РФ",
+     "children": [
+      {"name": "Антивирус Касперского"},
+      {"name": "Dr.Web"}
+    ]},
+    {
+     "name": "Зарубежные",
+     "children": [
+      {"name": "Symantec"},
+      {"name": "McAfee"},
+      {"name": "Trend Micro"},
+      {"name": "Sophos"},
+      {"name": "Bitdefender"},
+      {"name": "Lumension AntiVirus"}
+     ]
+    }
+ ]
+  },
+  {
+   "name": "Антифрод",
+   "children": [
+    {
+     "name": "РФ",
+     "children": [
+      {"name": "FMS Retail"},
+      {"name": "FMS Payments"},
+      {"name": "FMS Subs"},
+      {"name": "FHS-01"},
+      {"name": "Антифрод от Касперского"}
+    ]},
+    {
+     "name": "Зарубежные",
+     "children": [
+      {"name": "Easy Solutions"},
+      {"name": "Intellinx Difference – Enterprise Fraud Management", "size": 5731},
+      {"name": "SAS® anti-fraud"},
+      {"name": "Fico Enterprise Fraud"}
+     ]
+    }
+ ]
+  },
+  {
+   "name": "Выявление инцидентов",
+   "children": [
+    {"name":"SIEM","children":[
+       {"name": "РФ", "children": [
+     {"name":"MaxPatrol SIEM"},
+     {"name":"RUSiem"},
+     {"name":"Комрад"}
+    ]},
+     {"name":"Зарубежные","children":[
+      {"name":"HP ArcSight"},
+      {"name":"IBM Qradar"},
+      {"name":"Splunk"},
+      {"name":"AlienVault"},
+      {"name":"LogRythm"}
+     ]}
+    ]},
+    {"name":"Около SIEM","children":[
+     {"name":"РФ", "children":[
+      {"name":"ERPScan SAP Security Intelligence","size": 5731}
+     ]},
+     {"name":"Зарубежные","children":[
+      {"name":"AgileSI"},
+      {"name":"Exabeam"}
+     ]}
+    ]}
+   ]
+  },
+  {
+   "name": "Сетевая безопасность",
+   "children": [
+    {"name":"МЭ","children":[
+     {"name":"Потоковые","children":[
+      {"name": "РФ", "children": [
+       {"name":"IDECO ICS/ICS ФСТЭК"},
+       {"name":"ViPNet Coordinator"},
+       {"name":"АПКШ «Континент»"},
+       {"name":"ALTELL NEO"},
+       {"name":"ViPNet Office Firewall Linux/Windows"},
+        {"name":"Рубикон/Рубикон-К"},
+       {"name":"C-терра"}
+    ]},
+     {"name":"Зарубежные","children":[
+      {"name":"Cisco ASA/SourceFire"},
+      {"name":"Juniper NetScreen"},
+      {"name":"PaloAlto"},
+      {"name":"Fortinet"},
+      {"name":"F5 Networks"},
+      {"name":"Checkpoint"},
+      {"name":"Barracuda NG Firewall"},
+      {"name":"Aruba Policy Enforcement Firewall"}
+     ]}
+     ]},
+     {"name":"Хостовые","children":[
+      {"name": "РФ", "children": [
+       {"name":"TrustAccess"},
+       {"name":"ViPNet PersonalFirewall Linux/Windows"}
+    ]},
+     {"name":"Зарубежные","children":[]}
+     ]}
+    ]},
+    {"name": "IPS", "children": [
+     {"name":"РФ","children":[
+           {"name":"ViPNet IDS"},
+           {"name":"РУБИКОН-К"}
+     ]},
+     {"name":"Зарубежные"}
+    ]},
+    {"name": "IPS/NGFW", "children": [
+     {"name":"РФ"},
+      {"name":"Зарубежные","children":[
+      {"name":"Cisco IDS/ASA/SourceFire"},
+      {"name":"Juniper NetScreen"},
+      {"name":"PaloAlto"},
+      {"name":"Fortinet"},
+      {"name":"F5 Networks"},
+      {"name":"Checkpoint"},
+      {"name":"Barracuda NG Firewall"},
+       {"name":"IBM IPS"},
+       {"name":"Trend Micro Tipping Point"}
+     ]}
+    ]},
+    {"name": "Защита АСУТП", "children": [
+     {"name":"РФ","children":[
+      {"name":"ПАК ЩИТ"}
+     ]},
+     {"name":"Зарубежные"}
+    ]}
+   ]
+  },
+  {
+   "name": "Криптография",
+   "children": [
+    {"name":"VPN ГОСТ","children":[
+      {"name": "РФ", "children": [
+     {"name":"АПКШ «Континент»"},
+     {"name":"ViPNet Coordinator"},
+     {"name":"Ideco МагПро ГОСТ-VPN"},
+       {"name":"С-Терра"},
+       {"name":"МагПро OpenVPN-ГОСТ"},
+       {"name":"LirVPN"}
+    ]},
+      {"name":"Зарубежные","children":[]}
+    ]},
+    {"name":"УЦ","children":[
+     {"name":"РФ", "children":[
+      {"name":"КриптоПро УЦ","size": 5731},
+      {"name":"ViPNet Удостоверяющий и ключевой центр"},
+      {"name":"УЦ Notary-PRO"},
+      {"name":"АПК 'Валидата УЦ'"},
+      {"name":"ЛИССИ-УЦ"}
+     ]},
+     {"name":"Зарубежные"}
+    ]},
+    {"name": "Криптопровайдеры", "children": [
+     {"name":"РФ","children":[
+           {"name":"Сигнал-ком"},
+           {"name":"КриптоПро"},
+           {"name":"ЛИССИ-CSP"},
+           {"name":"МагПро КриптоПакет"},
+           {"name":"ViPNet CSP"}
+     ]},
+     {"name":"Зарубежные"}
+    ]},
+    {"name": "Шифрование файловое", "children": [
+     {"name":"РФ","children":[
+           {"name":"ViPNet CryptoFile"},
+           {"name":"Zecurion Zserver"},
+           {"name":"ViPNet SafeDisk"},
+           {"name":"Алладин-рд Secret Disk"}
+     ]},
+     {"name":"Зарубежные","children":[
+      {"name":"SafeNet"}
+     ]}
+    ]},
+    {"name": "Хранение ключевой информации", "children": [
+     {"name":"РФ","children":[
+           {"name":"КриптоПро HSM"},
+           {"name":"Атликс HSM"},
+           {"name":"Рутокен"},
+           {"name":"Алладин-рд"}
+     ]},
+     {"name":"Зарубежные","children":[
+      {"name":"SafeNet"}
+     ]}
+    ]}
+   ]
+  },
+  {
+   "name": "Анализ кода",
+   "children": [
+    {"name": "РФ", "children": [
+     {"name":"AppChecker Эшелон"},
+     {"name":"PT Application Inspector"},
+     {"name":"Infowatch Appercut"},
+     {"name":"PVS-Studio"},
+      {"name":"Solar InCode"}
+    ]},
+    {"name":"Зарубежные","children":[
+     {"name":"HP Fortify"},
+     {"name":"IBM AppScan"},
+     {"name":"Veracode"},
+     {"name":"CheckMarx"}
+    ]}
+   ]
+  },
+  {
+   "name": "Доверенная загрузка",
+   "children": [
+    {"name":"ПАК","children":[
+       {"name": "РФ", "children": [
+     {"name":"Соболь"},
+     {"name":"Аккород"},
+        {"name":"Secret Net Card"}
+    ]},
+     {"name":"Зарубежные","children":[]}
+    ]},
+    {"name":"Программные","children":[
+     {"name":"РФ", "children":[
+      {"name":"DallasLock"}
+     ]},
+     {"name":"Зарубежные"}
+    ]}
+   ]
+  },
+  {
+   "name": "Системы аутентификации",
+   "children": [
+    {"name":"Программная часть","children":[
+         {"name":"РФ","children":[
+     {"name":"Indeed ID"},
+     {"name":"DallasLock"},
+      {"name":"SecretNet"},
+      {"name":"Страж NT"},
+          {"name":"eToken Network Logon"},
+          {"name":"JaCarta SecurLogon"}
+    ]},
+     {"name":"Зарубежные", "children":[
+      {"name":"SafeNet Autentification"},
+      {"name":"RSA Authentication Manager"},
+      {"name":"Oracle Enterprise Single Sign-On/IAM"},
+      {"name":"IBM Tivoli Access Manager "}
+     ]}
+    ]},
+    {"name":"Аппаратная часть (2-х факторка)","children":[
+         {"name":"РФ","children":[
+     {"name":"Рутокен"},
+     {"name":"Guardiant"},
+      {"name":"JaCarta Алладин РД"},
+      {"name":"eToken"}
+    ]},
+     {"name":"Зарубежные", "children":[]}
+    ]}
+    ]},
+  {"name": "Cервисы",
+   "children": [
+     {"name":"РФ","children":[
+           {"name":"JSOC"},
+           {"name":"Rvision"}
+     ]},
+     {"name":"Зарубежные","children":[
+      {"name":"Amazon Security Service"}
+     ]}
+    ]},
+  {
+   "name": "Защита виртуальных сред",
+   "children": [
+         {"name":"РФ","children":[
+     {"name":"VGate"},
+      {"name":"Kaspersky Security для виртуальных сред"}
+    ]},
+     {"name":"Зарубежные", "children":[
+      {"name":"HyTrust"},
+      {"name":"Trend Micro Deep Security"},
+      {"name":"Cisco NGIPSv for VMware"}
+     ]}
+   ]
+  },
+  {
+   "name": "Антиспам",
+   "children": [
+    {"name":"РФ","children":[
+     {"name":"Kaspersky AntiSpam"}
+    ]},
+     {"name":"Зарубежные", "children":[
+      {"name":"Cisco Email Security Appliance"},
+      {"name":"Websense TRITON AP-EMAIL"},
+      {"name":"Symantec Mail Security с Symantec Premium AntiSpam"},
+      {"name":"McAfee Email Protection"},
+      {"name":"Sophos Secure Email Gateway"},
+      {"name":"FortiGate AntiSpam модуль в FortiOS"}
+     ]}
+   ]
+  },
+  {
+   "name": "MDM",
+   "children": [
+    {"name":"РФ","children":[
+     {"name":"Kaspersky MDM"}
+    ]},
+     {"name":"Зарубежные", "children":[
+      {"name":"Sap Afaria"},
+      {"name":"MobileIron"},
+      {"name":"AirWatch (VMware)"},
+      {"name":"McAfee Enterprise Mobility Management"},
+      {"name":"Symantec Mobility Suite"}
+     ]}
+   ]
+  },
+  {
+     "name": "Защита от 0 угроз",
+   "children": [
+        {"name":"РФ","children":[
+         {"name":" InfoWatch Targeted Attack Detector "},
+         {"name":"Bot-Trek"},
+         {"name":"Kaspersky Anti-APT"}
+    ]},
+     {"name":"Зарубежные", "children":[
+      {"name":"LastLine"},
+      {"name":"FireEye"},
+      {"name":"SourceFire (Сisco)"},
+      {"name":"Fidelis XPS"},
+      {"name":"Palo Alto’s WildFire/Traps"},
+      {"name":"Damballa"},
+      {"name":"Websense (triton® APX с доп модулями)"},
+      {"name":"TrendMicro Deep Discovery"},
+      {"name":"CheckPoint Anti-Bot Software Blade"},
+      {"name":"AhnLab MDS/MDSE"},
+      {"name":"Cyphort Advanced Threat Defense Platform"},
+      {"name":"Microsoft Advanced Threat Analytics"},
+      {"name":"Mcafee Advanced Threat Defense"}
+     ]}
+   ]
+  },
+  {
+   "name":"Контроль целостности",
+   "children":[
+    {"name":"РФ","children":[
+     {"name":"Secret Net"},
+     {"name":"Dallas Lock"}
+    ]},
+     {"name":"Зарубежные","children":[
+      {"name":"Trend Micro Deep Security"}
+     ]}
+    ]},
+  {
+   "name":"Защита баз данных",
+   "children":[
+    {"name":"РФ","children":[
+     {"name":"Гарда БД"}
+    ]},
+     {"name":"Зарубежные","children":[
+      {"name":"Imperva DAM"},
+      {"name":"IBM Guardium"},
+      {"name":"GreenSql"},
+      {"name":"Oracle Audit Vault and Database Firewall"},
+      {"name":"FortiDB"}
+     ]}
+    ]},
+  {
+   "name":"Контроль сетевого доступа",
+   "children":[
+    {"name":"РФ","children":[
+     {"name":"Kaspersky Network Access Control"}
+    ]},
+     {"name":"Зарубежные","children":[
+      {"name":"Cisco ISE"},
+      {"name":"Aruba ClearPass"}
+    ]},
+     {"name":"OpenSource","children":[
+      {"name":"FreeRADIUS"}
+      ]}
+    ]}
+  ]}

@@ -1,0 +1,168 @@
+{
+  "checksum": {
+    "previous": "8e21197bc24d1fadc9878f2209dd288e6a70aef97c253a52237a99ae85099c54",
+    "current": "8e21197bc24d1fadc9878f2209dd288e6a70aef97c253a52237a99ae85099c54"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/112136-computer-security/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/112136-computer-security/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/112136-computer-security/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/112136-computer-security/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "alarm": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/alarm.svg"
+    },
+    "closed-lock": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/closed-lock.svg"
+    },
+    "eye": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/eye.svg"
+    },
+    "firewall": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/firewall.svg"
+    },
+    "key": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/key.svg"
+    },
+    "key-1": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/key-1.svg"
+    },
+    "keyhole": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/keyhole.svg"
+    },
+    "keyhole-1": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/keyhole-1.svg"
+    },
+    "laptop-spy": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/laptop-spy.svg"
+    },
+    "locked-cloud": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/locked-cloud.svg"
+    },
+    "locked-file": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/locked-file.svg"
+    },
+    "magnifying-glass": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/magnifying-glass.svg"
+    },
+    "monitor-spy": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/monitor-spy.svg"
+    },
+    "open-lock": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/open-lock.svg"
+    },
+    "open-lock-1": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/open-lock-1.svg"
+    },
+    "padlock": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/padlock.svg"
+    },
+    "password": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/password.svg"
+    },
+    "pin-code": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/pin-code.svg"
+    },
+    "protected-cloud": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/protected-cloud.svg"
+    },
+    "safebox": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/safebox.svg"
+    },
+    "security-camera": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/security-camera.svg"
+    },
+    "shield": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/shield.svg"
+    },
+    "shield-1": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/shield-1.svg"
+    },
+    "shield-2": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/shield-2.svg"
+    },
+    "shield-3": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/shield-3.svg"
+    },
+    "shield-with-thumb-up": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/shield-with-thumb-up.svg"
+    },
+    "spy": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/spy.svg"
+    },
+    "virus": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/virus.svg"
+    },
+    "wall": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/wall.svg"
+    },
+    "webcam": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg/webcam.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/112136-computer-security/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/112136-computer-security/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/112136-computer-security/font",
+      "preview": "/var/www/static/flaticon/zip_packs/112136-computer-security/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/112136-computer-security/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/112136-computer-security/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/112136-computer-security/font/flaticon.css"
+  ]
+}

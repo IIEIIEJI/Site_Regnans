@@ -1,0 +1,92 @@
+{% extends "base_notfullscreen.html" %}
+{% block content %}
+<div id="content">
+		   <script>
+	   (function($){$(".contact").addClass("active");})(jQuery);
+	   </script>
+    <br>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+
+						<div class="headline">
+
+							<h1>Свяжитесь с нами</h1>
+
+						</div><!-- headline -->
+
+					</div><!-- col -->
+				</div><!-- row -->
+			</div><!-- container -->
+
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6">
+
+						<h4><strong>Напишет нам, мы будем рады!</strong></h4>
+
+						<br>
+
+						<form id="contact-form" name="contact-form" method="post">
+                            <fieldset>
+
+                                <div id="alert-area"></div>
+
+                                <input class="col-xs-12" id="name" type="text" name="name" placeholder="Имя">
+
+                                <input class="col-xs-12" id="email" type="email" name="email" placeholder="Email">
+
+                                <input class="col-xs-12" id="subject" type="text" name="subject" placeholder="Тема">
+
+                                <textarea class="col-xs-12" id="message" name="message" rows="8" cols="25" placeholder="Сообщение..."></textarea>
+
+                                <input class="btn btn-purple" id="submit" type="submit" name="submit" value="Отправить">
+
+                            </fieldset>
+                        </form>
+
+					</div><!-- col -->
+					<div class="col-sm-6">
+
+						<h4><strong>Наш офис</strong></h4>
+
+						<div class="widget widget-contact contact" style="margin-bottom:50px;padding-top:20px;">
+							<div class="row">
+								<div class="col-sm-7">
+									<i class="mt-icons-map-marker"></i>
+									117105, г. Москва, Варшавское шоссе, 33
+								</div>
+								<div class="col-sm-5">
+									<div class="row">
+									<i class="mt-icons-telephone"></i>
+										<span class="hidden-xs">+7 (495) 363 71 43</span>
+										<a class="visible-xs-inline" href="tel:84953637143">+7 (495) 363 71 43</a>
+									</div>
+										<div class="row">
+											<i class="mt-icons-mail"></i>
+										<a href="mailto:info@regnans.ru">info@regnans.ru</a>
+										</div>
+								</div>
+
+							</div>
+
+							<div class="row">
+								<div class="col-sm-12">
+									<script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=_fk9MLnVNSPk4bG8XpqXyqTdpHqHZYSw&width=100%&height=346&lang=ru_RU&sourceType=constructor"></script>
+								</div><!-- col -->
+							</div><!-- row -->
+							<br>
+
+
+						</div><!-- widget-contact -->
+					</div><!-- col -->
+				</div><!-- row -->
+			</div><!-- container -->
+
+
+
+</div><!-- CONTENT -->
+
+<br>
+
+{% endblock %}

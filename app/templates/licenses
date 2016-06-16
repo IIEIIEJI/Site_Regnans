@@ -1,0 +1,25 @@
+{% extends "base_notfullscreen.html" %}
+{% block content %}
+   <div id="content">
+	   	   <script>
+	   (function($){$(".about").addClass("active");})(jQuery);
+	   </script>
+			<br>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+
+						<div class="headline">
+
+							<h1>Мы ищем лучших!</h1>
+
+						</div><!-- headline -->
+
+					</div><!-- col -->
+				</div><!-- row -->
+			</div> <!-- О компании -->
+
+			<div class="container">
+			</div><!-- container -->
+   </div>
+{% endblock %}

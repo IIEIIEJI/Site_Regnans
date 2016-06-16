@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 __author__ = 'timur'
 from app import app
 from gevent.wsgi import WSGIServer

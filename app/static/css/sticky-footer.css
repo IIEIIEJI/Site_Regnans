@@ -1,0 +1,89 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+  /* Set the fixed height of the footer here */
+    height: 40px;
+  background-color: rgba(255,255,255,100);
+    border-top: 1px solid #eee;
+    
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding: 12% 15px 0;
+}
+.exit {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0%;
+}
+
+.username {
+    margin-top: 18px;
+    margin-bottom: 10px;
+    margin-left: 90%;
+}
+.index_h3 {
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+.btn-red {
+  color: #333;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: all .2s ease-in-out;
+       -o-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
+}
+.btn-red:hover,
+.btn-red:focus,
+.btn-red:active {
+  border-color: #d9534f;
+}
+body > .logout {
+  padding: 190px 15px 0;
+}
+.container .text-muted {
+  margin: 10px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+.bs-callout{
+    padding:10px;
+    margin:10px 0;
+    border:1px solid #eee;
+    border-left-width:5px;
+    border-radius:3px;
+}
+.bs-callout-info {
+    border-left-color:#5cb85c;
+}
+.bs-callout-danger {
+    border-left-color: #d9534f;
+}
+.bs-callout-danger h4 {
+    color: #d9534f;
+}

@@ -1,0 +1,99 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 19/02/2016 14:53
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-alarm:before { content: "\f100"; }
+.flaticon-closed-lock:before { content: "\f101"; }
+.flaticon-eye:before { content: "\f102"; }
+.flaticon-firewall:before { content: "\f103"; }
+.flaticon-key:before { content: "\f104"; }
+.flaticon-key-1:before { content: "\f105"; }
+.flaticon-keyhole:before { content: "\f106"; }
+.flaticon-keyhole-1:before { content: "\f107"; }
+.flaticon-laptop-spy:before { content: "\f108"; }
+.flaticon-locked-cloud:before { content: "\f109"; }
+.flaticon-locked-file:before { content: "\f10a"; }
+.flaticon-magnifying-glass:before { content: "\f10b"; }
+.flaticon-monitor-spy:before { content: "\f10c"; }
+.flaticon-open-lock:before { content: "\f10d"; }
+.flaticon-open-lock-1:before { content: "\f10e"; }
+.flaticon-padlock:before { content: "\f10f"; }
+.flaticon-password:before { content: "\f110"; }
+.flaticon-pin-code:before { content: "\f111"; }
+.flaticon-protected-cloud:before { content: "\f112"; }
+.flaticon-safebox:before { content: "\f113"; }
+.flaticon-security-camera:before { content: "\f114"; }
+.flaticon-shield:before { content: "\f115"; }
+.flaticon-shield-1:before { content: "\f116"; }
+.flaticon-shield-2:before { content: "\f117"; }
+.flaticon-shield-3:before { content: "\f118"; }
+.flaticon-shield-with-thumb-up:before { content: "\f119"; }
+.flaticon-spy:before { content: "\f11a"; }
+.flaticon-virus:before { content: "\f11b"; }
+.flaticon-wall:before { content: "\f11c"; }
+.flaticon-webcam:before { content: "\f11d"; }
+    
+    $font-Flaticon-alarm: "\f100";
+    $font-Flaticon-closed-lock: "\f101";
+    $font-Flaticon-eye: "\f102";
+    $font-Flaticon-firewall: "\f103";
+    $font-Flaticon-key: "\f104";
+    $font-Flaticon-key-1: "\f105";
+    $font-Flaticon-keyhole: "\f106";
+    $font-Flaticon-keyhole-1: "\f107";
+    $font-Flaticon-laptop-spy: "\f108";
+    $font-Flaticon-locked-cloud: "\f109";
+    $font-Flaticon-locked-file: "\f10a";
+    $font-Flaticon-magnifying-glass: "\f10b";
+    $font-Flaticon-monitor-spy: "\f10c";
+    $font-Flaticon-open-lock: "\f10d";
+    $font-Flaticon-open-lock-1: "\f10e";
+    $font-Flaticon-padlock: "\f10f";
+    $font-Flaticon-password: "\f110";
+    $font-Flaticon-pin-code: "\f111";
+    $font-Flaticon-protected-cloud: "\f112";
+    $font-Flaticon-safebox: "\f113";
+    $font-Flaticon-security-camera: "\f114";
+    $font-Flaticon-shield: "\f115";
+    $font-Flaticon-shield-1: "\f116";
+    $font-Flaticon-shield-2: "\f117";
+    $font-Flaticon-shield-3: "\f118";
+    $font-Flaticon-shield-with-thumb-up: "\f119";
+    $font-Flaticon-spy: "\f11a";
+    $font-Flaticon-virus: "\f11b";
+    $font-Flaticon-wall: "\f11c";
+    $font-Flaticon-webcam: "\f11d";
